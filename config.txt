@@ -1,6 +1,6 @@
-token=NTAyODUzMTIwMjIxNTExNjgw.Dqt-VA.-LYhoZzmO8mT-mPEGcxHe1QdrQI
-owner=502853120221511680
-prefix=A
-game=Type Aplay
+token=NTAzMTI3NTEyNDM2NDQxMDk5.Dqx-kg.f4due43pUDlpTrSLYX5S4fceqoQ
+owner=503127512436441099
+prefix=1
+game=Type 1play
 stayinchannel=true
 songinstatus=true
